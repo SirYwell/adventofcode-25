@@ -10,11 +10,12 @@ Hier ist eine Liste mit allen von Beitragenden verwendeten Programmiersprachen u
 
 Here is a list of all programming languages used by the contributors and the days that were solved with them:
 
-| Day/Lang             | Java | Python | C | Kotlin | Rust | Clojure | Idris2 |
-|----------------------|------|--------|---|--------|------|---------|--------|
-| 01 - Secret Entrance | ✅    | ✅      | ✅ | ✅      | ✅    | ✅       | ✅      |
-| 02 - Gift Shop       | ✅    | ✅      | ✅ | ✅      | ✅    | ✅       | ❌      |
-| 03 - Lobby           | ✅    | ✅      | ❌ | ✅      | ✅    | ✅       | ❌      |
+| Day/Lang                 | Java | Python | C | Kotlin | Rust | Clojure | Idris2 |
+|--------------------------|------|--------|---|--------|------|---------|--------|
+| 01 - Secret Entrance     | ✅    | ✅      | ✅ | ✅      | ✅    | ✅       | ✅      |
+| 02 - Gift Shop           | ✅    | ✅      | ✅ | ✅      | ✅    | ✅       | ❌      |
+| 03 - Lobby               | ✅    | ✅      | ✅ | ✅      | ✅    | ✅       | ✅      |
+| 04 - Printing Department | ✅    | ❌      | ✅ | ❌      | ❌    | ❌       | ❌      |
 
 
 ❌   = Keine Lösung / No solution,
